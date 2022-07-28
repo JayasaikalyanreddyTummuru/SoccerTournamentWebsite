@@ -1,0 +1,33 @@
+.bg{
+    background-color:black;
+}
+.text{
+    color:rgb(233, 227, 227);
+}
+.imagestyling{
+    margin: 50px;
+}
+.headingStyle{
+    font-family: cursive;
+    font-size: 80px;
+    font-style: Italic;
+    text-align: center;
+}
+
+ .central_heading{
+        font-size: 20px;
+        margin-top: 3%;
+        margin-bottom: 3%;
+        justify-content: center;
+        color:rgba(13,49,95,255);
+        display: flex;
+  }
+  .btn-primary {
+  	background-color: rgba(13,49,95,255);
+  	border-color: rgba(13,49,95,255);
+  }
+
+  .link {
+    textDecoration: 'none';
+    color:"#FFFFFF";
+  }
